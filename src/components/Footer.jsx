@@ -1,6 +1,6 @@
 
 export const Footer = () => {
   return (
-    <Footer>Footer</Footer>
+    <footer>Footer</footer>
   )
 }
