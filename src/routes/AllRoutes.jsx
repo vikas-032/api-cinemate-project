@@ -12,7 +12,7 @@ export const AllRoutes = () => {
         <Route path="/movies/upcoming" element={<MovieList />} />
         <Route path="search" element={<Search />} />
         <Route path="*" element={<PageNotFound />} />
-      </Routes>
+      </Routes> 
     </>
   );
 };
